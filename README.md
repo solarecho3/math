@@ -1,3 +1,5 @@
 # math :eyes:
 
-A collection of math functions for studying mathematic processes and improving python fluency!
+physics_objects - build a universe.
+
+scratch.ipynb - mathematic functions in python
